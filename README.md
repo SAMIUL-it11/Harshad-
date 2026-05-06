@@ -1,5 +1,5 @@
 # Harshad-
-
+```
 public class Harshad {
     public static void main(String[] args) {
         if (args.length == 0) {
@@ -20,10 +20,10 @@ public class Harshad {
 }
 
 
-
+```
 #Leetcode
 
-
+```
 class Solution {
 public:
     int sumOfTheDigitsOfHarshadNumber(int x) {
@@ -36,3 +36,4 @@ public:
         else return -1;
     }
 };
+```
